@@ -1,0 +1,2 @@
+Hello from the Render VPS demo.
+This file lives in demo_files only. Render free tier has no persistent disk, so treat this as a temporary demo workspace.
